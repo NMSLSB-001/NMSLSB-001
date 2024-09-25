@@ -11,6 +11,6 @@
 
 ### Tools
 
-![Static Badge](https://img.shields.io/badge/Java)
+
 
 [![roadmap.sh](https://roadmap.sh/card/tall/66f3e323c45e253cb04a16b6?variant=light)](https://roadmap.sh)
