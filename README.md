@@ -6,11 +6,11 @@
 
 
 ### My Skills
-[<img align="left" src="https://badgen.net/badge/icon/github?icon=github&label" />](https://badgen.net/badge/icon/github?icon=github&label)
+[<img src="https://badgen.net/badge/icon/github?icon=github&label" />](https://badgen.net/badge/icon/github?icon=github&label)
 
-[<img align="left" src="https://badgen.net/badge/icon/typescript?icon=typescript&label" />](https://badgen.net/badge/icon/typescript?icon=typescript&label) [<img align="left" src="https://badgen.net/badge/icon/npm?icon=npm&label" />](https://badgen.net/badge/icon/npm?icon=npm&label)
+[<img src="https://badgen.net/badge/icon/typescript?icon=typescript&label" />](https://badgen.net/badge/icon/typescript?icon=typescript&label) [<img src="https://badgen.net/badge/icon/npm?icon=npm&label" />](https://badgen.net/badge/icon/npm?icon=npm&label)
 
-[<img align="left" src="https://badgen.net/badge/icon/java?icon=java&label" />](https://badgen.net/badge/icon/java?icon=java&label) [<img align="left" src="https://badgen.net/badge/icon/maven?icon=maven&label" />](https://badgen.net/badge/icon/maven?icon=maven&label)
+[<img src="https://badgen.net/badge/icon/java?icon=java&label" />](https://badgen.net/badge/icon/java?icon=java&label) [<img src="https://badgen.net/badge/icon/maven?icon=maven&label" />](https://badgen.net/badge/icon/maven?icon=maven&label)
 
 
 
