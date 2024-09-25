@@ -17,9 +17,7 @@
 
 ### Tools
 
-[<img src="https://badgen.net/badge/icon/docker?icon=docker&label"/>](https://badgen.net/badge/icon/docker?icon=docker&label) 
-
-[<img src="https://badgen.net/badge/icon/git?icon=git&label"/>](https://badgen.net/badge/icon/git?icon=git&label)
+[<img src="https://badgen.net/badge/icon/docker?icon=docker&label"/>](https://badgen.net/badge/icon/docker?icon=docker&label) [<img src="https://badgen.net/badge/icon/git?icon=git&label"/>](https://badgen.net/badge/icon/git?icon=git&label)
 
 
 ### Platform
