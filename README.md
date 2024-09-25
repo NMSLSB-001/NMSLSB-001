@@ -5,8 +5,8 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=NMSLSB-001&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 
-[<img align="left" src="https://badgen.net/badge/icon/airbnb?icon=airbnb&label" />](https://badgen.net/badge/icon/npm?icon=npm&label)
-[<img align="left" src="https://badgen.net/badge/icon/airbnb?icon=airbnb&label" />](https://badgen.net/badge/icon/typescript?icon=typescript&label)
+[<img align="left" src="https://badgen.net/badge/icon/npm?icon=npm&label" />](https://badgen.net/badge/icon/npm?icon=npm&label)
+[<img align="left" src="https://badgen.net/badge/icon/typescript?icon=typescript&label" />](https://badgen.net/badge/icon/typescript?icon=typescript&label)
 
 
 <h3 align="left">Languages and Tools:</h3>
